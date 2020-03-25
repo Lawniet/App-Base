@@ -12,8 +12,7 @@ function saveForm() {
 		longitude: longitude,
 		token: token
 	};
-	fetch(url, { method: 'POST', body: data })
-		.then(function (response) {
+	fetch(url, { method: 'POST', body: data }).then(function (response) {
 			var itemid = response;
 			listForm();
 			showFormPage();
