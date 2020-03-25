@@ -1,5 +1,5 @@
 {
     "dburi": "mongodb+srv://dbUser:toor@cluster0-gblab.azure.mongodb.net/test?retryWrites=true&w=majority",
-    "fbclientId": "601265150549-r095qa1r8mtaaurm7mlv9tunkdf3ah41",
-    "fbclientSecret": "9880fuL7bDVdE3IIfZzpq5mZ"   
+    "fbclientId": "XXXXXXXXXX",
+    "fbclientSecret": "XXXXXXXXXXXX"   
 }
